@@ -1,17 +1,15 @@
-<div class="container">
-  <form action="http://localhost:2200/hotels/:cityName" method="GET">
-    <div class="form-group">
-      <label for="cityName">Email</label>
-      <input type="text" id="cityName" class="form-control" name="cityName" placeholder="Eg: Berlin, Munchen" />
-      <button class="btn btn-success" (click)="getHotels()">Search</button>
-    </div>
+<!-- <div class="container">
+  <div class="form-group">
+    <label for="cityName">Email</label>
+    <input type="text" id="cityName" #city class="form-control" name="cityName" placeholder="Eg: Berlin, Munchen" />
+    <button class="btn btn-success" (click)="getHotels(city)">Search</button>
+  </div>
 
-  </form>
 
   <ul class="list-group" *ngFor="let x of arr">
     <li class="list-group-item">
-      {{ x.title }}, <br>
-      {{x.vicinity}}
+      <p>{{ x.title }}</p>
+      <p *ngFor="let y of address">{{y}}</p>
       <button class="btn btn-primary float-right">
         Book
       </button>
@@ -42,14 +40,14 @@
 </div>
 
 <div class="container">
-  <form action="http://localhost:2200/confirmation/:userName" method="GET">
+  <form action="http://localhost:2200/confirmation/userName" method="GET">
     <div class="form-group">
       <label for="userName">Confirmation</label>
       <input type="text" id="userName" class="form-control" name="userName" />
     </div>
     <button type="submit" class="btn btn-primary" (click)="getConfirmation()">Submit</button>
   </form>
-</div>
+</div> -->
 
 <!-- <ul class="list-group" *ngFor="let x of confirmation>
   <li class=" list-group-item">
@@ -61,4 +59,6 @@
 </ul> -->
 
 
-<p>{{ confirmation}}</p>
+<!-- <p>{{ confirmation}}</p> -->
+
+<router-outlet></router-outlet>

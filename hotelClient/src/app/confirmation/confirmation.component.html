@@ -1,0 +1,16 @@
+<p>confirmation works!</p>
+<!-- <ul class="list-group" *ngFor="let x of confirmation>
+  <li class=" list-group-item">
+  {{ x.hotelName }}, <br>
+  {{x.checkInDate}}, <br>
+  {{x.checkOutDate}}
+
+  </li>
+</ul> -->
+
+<p>Your booking is successful Enter your user name below and check for the confirmation </p>
+<div class="form-group">
+    <label for="userName">User Name</label>
+    <input type="text" id="userName" #userName class="form-control" name="cityName" />
+    <button class="btn btn-success" (click)="getConfirmation(userName)">Search</button>
+</div>

@@ -1,0 +1,16 @@
+<div class="container">
+    <div class="form-group">
+        <label for="cityName">Email</label>
+        <input type="text" id="cityName" #city class="form-control" name="cityName" placeholder="Eg: Berlin, Munchen" />
+        <button class="btn btn-success" (click)="getHotels(city)">Search</button>
+    </div>
+    <ul class="list-group" *ngFor="let x of arr">
+        <li class="list-group-item">
+            <p #hotelTitle>{{ x.title }}</p>
+            <p *ngFor="let y of address">{{y}}</p>
+            <button class="btn btn-primary float-right" routerLink="/booking" (click)="gethotelTitle(hotelTitle)">
+                Book
+            </button>
+        </li>
+    </ul>
+</div>
