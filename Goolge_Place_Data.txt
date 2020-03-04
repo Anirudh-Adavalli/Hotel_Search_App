@@ -1,0 +1,541 @@
+{
+html_attributions: [ ],
+results: [
+{
+geometry: {
+location: {
+lat: 50.824737,
+lng: 12.926453
+},
+viewport: {
+northeast: {
+lat: 50.82620222989271,
+lng: 12.92797777989272
+},
+southwest: {
+lat: 50.82350257010727,
+lng: 12.92527812010728
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+id: "0aa43e00fc3ae1a9d0122659a7859db93882fd65",
+name: "Seaside Residenz Hotel Chemnitz",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 1920,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/111680766117337319616">Loai haffar</a>"
+],
+photo_reference: "CmRaAAAAG_7QhCUFbWRAE6511rysC3HhaxqU5Ol-drgy8UN3lYrD-0IwYo3U58AP-3rEwwCiBgqLRFHhJD_CKjpgWpKviMY67KpzGAAq8Iwt3OI-6L0thuRvjXS-r9HECutk-PyOEhBsQgDYciMQKQtUjyTi7l-WGhSIQYJwrtjhgF3u-IddJzclp_Lo3g",
+width: 1080
+}
+],
+place_id: "ChIJyd9nEGlGp0cRzkR5OCIB3To",
+plus_code: {
+compound_code: "RWFG+VH Chemnitz",
+global_code: "9F2JRWFG+VH"
+},
+rating: 4.2,
+reference: "ChIJyd9nEGlGp0cRzkR5OCIB3To",
+scope: "GOOGLE",
+types: [
+"lodging",
+"bar",
+"restaurant",
+"food",
+"point_of_interest",
+"establishment"
+],
+user_ratings_total: 589,
+vicinity: "Bernsdorfer Str. 2, Chemnitz"
+},
+{
+geometry: {
+location: {
+lat: 50.8342262,
+lng: 12.9233517
+},
+viewport: {
+northeast: {
+lat: 50.83556267989272,
+lng: 12.92469802989272
+},
+southwest: {
+lat: 50.83286302010728,
+lng: 12.92199837010728
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+id: "a5890303dd01f4d69d996ce771fc1e6ec04dca3d",
+name: "Biendo Hotel",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 1417,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/114035220986400565465">Biendo Hotel</a>"
+],
+photo_reference: "CmRaAAAAtHWpjxIUe_60ZV0yUlSlwBhcrafO3hNz4SSTPC4PYxhCzQ5qE2HS0SdM148iYMisIWjn4Dk6u0rMBWotrqkxW6Mp4QqYYiiF8aLusGV193sABQVVBEG4XMxeg645mo2dEhBXyHt2-p_ys2nEydnU8MB5GhRUyGFgJIut2BDa3aZHY0Mc3MJu3g",
+width: 2835
+}
+],
+place_id: "ChIJmxPOfV5Gp0cRII7D6PZO2zQ",
+plus_code: {
+compound_code: "RWMF+M8 Chemnitz",
+global_code: "9F2JRWMF+M8"
+},
+rating: 4.4,
+reference: "ChIJmxPOfV5Gp0cRII7D6PZO2zQ",
+scope: "GOOGLE",
+types: [
+"lodging",
+"point_of_interest",
+"establishment"
+],
+user_ratings_total: 646,
+vicinity: "Str. der Nationen 12, Chemnitz"
+},
+{
+geometry: {
+location: {
+lat: 50.83606049999999,
+lng: 12.9209794
+},
+viewport: {
+northeast: {
+lat: 50.83749827989271,
+lng: 12.92221947989272
+},
+southwest: {
+lat: 50.83479862010727,
+lng: 12.91951982010728
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+id: "afe4f583fe895e28513b5f1ce4669bff17629ac8",
+name: "Dorint Kongresshotel Chemnitz",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 4304,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/116071744407245509171">Mercure Hotel Kongress Chemnitz</a>"
+],
+photo_reference: "CmRaAAAAsJ4Cz4zGEVmoufg6aPCV3yHau0nS0ffcHw_Nf793Dzob8QMn2FVEuoLSyjosd65YcqCsDaLvy0qmcGJ2evH2BXtQ3GXftRHfWqAlEENxVU3DJVy_3Ds_dSIetgB6jSSmEhCB3TdE-yUUkO2G797YlCH2GhRj7IRDC8da6tKrZ1xUWN-MC6Aj2w",
+width: 2869
+}
+],
+place_id: "ChIJW1a73F5Gp0cRd1__eeStfDg",
+plus_code: {
+compound_code: "RWPC+C9 Chemnitz",
+global_code: "9F2JRWPC+C9"
+},
+rating: 3.9,
+reference: "ChIJW1a73F5Gp0cRd1__eeStfDg",
+scope: "GOOGLE",
+types: [
+"lodging",
+"restaurant",
+"food",
+"point_of_interest",
+"establishment"
+],
+user_ratings_total: 796,
+vicinity: "Brückenstraße 19, Chemnitz"
+},
+{
+geometry: {
+location: {
+lat: 50.82734000000001,
+lng: 12.92797
+},
+viewport: {
+northeast: {
+lat: 50.82872682989272,
+lng: 12.92945467989272
+},
+southwest: {
+lat: 50.82602717010728,
+lng: 12.92675502010728
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "fec667ad46b154d0d2a4500f569b0c5883c4a46d",
+name: "AF Pension",
+photos: [
+{
+height: 667,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/115327474400929282439">A Google User</a>"
+],
+photo_reference: "CmRaAAAAB_fdzhxMttshLUhCNL4rMxOGnSvbfXoiqv8woe9qd5FI1Obp4wLpKAmCXfWEf_Pg0VUSu6nTnhkqDg98qZsYfZ2J0QTnu_vMYCwbK-lLAiHuxyqWcjzGiPnrNHe1mp5BEhDyvCLXd5_z6K93md4APNJpGhSHSzuJ60YP7_lj33Vim3U-9YvepQ",
+width: 999
+}
+],
+place_id: "ChIJm_STrfZHp0cRC3Ax9R9e6hk",
+plus_code: {
+compound_code: "RWGH+W5 Chemnitz",
+global_code: "9F2JRWGH+W5"
+},
+rating: 5,
+reference: "ChIJm_STrfZHp0cRC3Ax9R9e6hk",
+scope: "GOOGLE",
+types: [
+"point_of_interest",
+"establishment"
+],
+user_ratings_total: 35,
+vicinity: "Zschopauer Str. 54, Chemnitz"
+},
+{
+geometry: {
+location: {
+lat: 50.8385293,
+lng: 12.9260419
+},
+viewport: {
+northeast: {
+lat: 50.83983872989271,
+lng: 12.92756147989272
+},
+southwest: {
+lat: 50.83713907010727,
+lng: 12.92486182010728
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+id: "8e09b2454660925d9614126e2a8e0eb071096fae",
+name: "Hotel Chemnitzer Hof",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 676,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/101959930401227375374">GÜNNEWIG Hotel Chemnitzer Hof</a>"
+],
+photo_reference: "CmRaAAAAICf7Ezc13NusngUCc51B-8gAlBydsxGbMOYWxoaE0XWR1c7tzIj6dWl3mi9D5rBPLKf7__6qZFmcKleCgeZW7ksmIrkoc635YRmn8O3_w5n1G50HZBz4JY-cI5EP6uIkEhD9_tnGKosc1JfYA_4f3xrbGhSvbrotu8MwzAd1VoAajgcnTqLmbA",
+width: 1074
+}
+],
+place_id: "ChIJiZyMjl9Gp0cRO07ebbiLRss",
+plus_code: {
+compound_code: "RWQG+CC Chemnitz",
+global_code: "9F2JRWQG+CC"
+},
+rating: 4.3,
+reference: "ChIJiZyMjl9Gp0cRO07ebbiLRss",
+scope: "GOOGLE",
+types: [
+"lodging",
+"point_of_interest",
+"establishment"
+],
+user_ratings_total: 557,
+vicinity: "Theaterpl. 4, Chemnitz"
+},
+{
+geometry: {
+location: {
+lat: 50.8411554,
+lng: 12.9240767
+},
+viewport: {
+northeast: {
+lat: 50.84239767989272,
+lng: 12.92522382989272
+},
+southwest: {
+lat: 50.83969802010728,
+lng: 12.92252417010728
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+id: "6ea62ed07cfeb2b11a76599a639408068cd59d4f",
+name: "Hotel & Restaurant Sächsischer Hof e.K.",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 900,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/106419341534090821315">Hotel & Restaurant Sächsischer Hof OHG</a>"
+],
+photo_reference: "CmRaAAAAiRlVigosSF45rCbjZPg2SkWI-FtICku6G3hThXa6i5k27F_qTRcrRnMzbkmumnjCtKWdmNJxssBW0Vmq5uYMK-3wMLm6ScbEJqUkvbwmeYYcjGR9M-mAem7fcW8zJEg_EhAjhf-rKyFO01d76sjS2Zo1GhStKeQoM849Wwva0O1ElFfdCW43BQ",
+width: 1600
+}
+],
+place_id: "ChIJlThRz_VGp0cR-KcxUG5nW_o",
+plus_code: {
+compound_code: "RWRF+FJ Chemnitz",
+global_code: "9F2JRWRF+FJ"
+},
+rating: 3.9,
+reference: "ChIJlThRz_VGp0cR-KcxUG5nW_o",
+scope: "GOOGLE",
+types: [
+"lodging",
+"restaurant",
+"food",
+"point_of_interest",
+"establishment"
+],
+user_ratings_total: 230,
+vicinity: "Brühl 26, Chemnitz"
+},
+{
+geometry: {
+location: {
+lat: 50.8374988,
+lng: 12.9264847
+},
+viewport: {
+northeast: {
+lat: 50.83878692989273,
+lng: 12.92795552989272
+},
+southwest: {
+lat: 50.83608727010728,
+lng: 12.92525587010728
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+id: "c2475056aae0208c3ddce3812f2f16902b11fd8b",
+name: "Hotel an der Oper",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 1152,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/106544277071907077785">Hotel an der Oper Chemnitz GmbH</a>"
+],
+photo_reference: "CmRaAAAA4T7RpfucMv2chIZUoG4QkwDg9Ik9wfDomCIaSqn5RxHOYEEaayceaBov0P31T2j4J2IjYUyiVAUU9g_8FaLFiNfOqYfbJGDz-_GkNUu75--Tsg6GNWpjCG4sCktV-KtbEhBA3Zif9YQHRpKkq4rTK7GIGhTH09GdWVqPnktVkRybwp-ZJKU4gA",
+width: 2048
+}
+],
+place_id: "ChIJE4lElV9Gp0cRxsxGDimKfdA",
+plus_code: {
+compound_code: "RWPG+XH Chemnitz",
+global_code: "9F2JRWPG+XH"
+},
+rating: 4.3,
+reference: "ChIJE4lElV9Gp0cRxsxGDimKfdA",
+scope: "GOOGLE",
+types: [
+"lodging",
+"point_of_interest",
+"establishment"
+],
+user_ratings_total: 486,
+vicinity: "Str. der Nationen 56, Chemnitz"
+},
+{
+geometry: {
+location: {
+lat: 50.8466667,
+lng: 12.9161111
+},
+viewport: {
+northeast: {
+lat: 50.84813462989272,
+lng: 12.91726477989272
+},
+southwest: {
+lat: 50.84543497010728,
+lng: 12.91456512010728
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+id: "b2c37032af36a92b5a7ef81eca1dd01f1b010254",
+name: "pentahotel Chemnitz",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 424,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/111455853719115526747">pentahotel Chemnitz</a>"
+],
+photo_reference: "CmRaAAAAs4-j1qh3bHUOlYKiQa_wsVaq_eGniIKl4IsB7nMCe6bmlxGITUuj10YcIcs-ZxtUL1qk1PPUE8r4UhAwkoKTg6D3hJNZEtim43iIhjh418yeTe5uPFz-bWR7CCjsnuB6EhD1x2J6m4RUhaGPe-WwfDWGGhRDEPlKZe1HMF3UYdCXXcyBAVq2TQ",
+width: 850
+}
+],
+place_id: "ChIJpz27bfpGp0cRtslNmMlCPl8",
+plus_code: {
+compound_code: "RWW8+MC Chemnitz",
+global_code: "9F2JRWW8+MC"
+},
+rating: 4.1,
+reference: "ChIJpz27bfpGp0cRtslNmMlCPl8",
+scope: "GOOGLE",
+types: [
+"lodging",
+"point_of_interest",
+"establishment"
+],
+user_ratings_total: 938,
+vicinity: "Salzstraße 56, Chemnitz"
+},
+{
+geometry: {
+location: {
+lat: 50.83754,
+lng: 12.93568
+},
+viewport: {
+northeast: {
+lat: 50.83880922989272,
+lng: 12.93699302989272
+},
+southwest: {
+lat: 50.83610957010727,
+lng: 12.93429337010728
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+id: "0e49d268bce11668086e97f9638474549753adcc",
+name: "alexxanders Restaurant & Boardinghouse",
+photos: [
+{
+height: 3024,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/116576185300270033242">Frank G</a>"
+],
+photo_reference: "CmRaAAAAB0vQH9yXWi28igGldY_LRpqZvCltvBMd0GsCW0sKvscuBINiBlzIIEsppjYXj0uXeOwfuQ6JiZoYn2SY1xM2AeGO00joxydijZwOz-ZGpxfS7-554oLFIsVUZwYilaGsEhALkpk5vcg-bHqV3R0B_hG2GhSXQeHQrDm6cNi6RIPyaKoGU2dbXQ",
+width: 4032
+}
+],
+place_id: "ChIJ66dmAWJGp0cRki3LIMU9GV8",
+plus_code: {
+compound_code: "RWQP+27 Chemnitz",
+global_code: "9F2JRWQP+27"
+},
+rating: 4.8,
+reference: "ChIJ66dmAWJGp0cRki3LIMU9GV8",
+scope: "GOOGLE",
+types: [
+"lodging",
+"point_of_interest",
+"establishment"
+],
+user_ratings_total: 358,
+vicinity: "Ludwig-Kirsch-Straße 9, Chemnitz"
+},
+{
+geometry: {
+location: {
+lat: 50.8286583,
+lng: 12.9391318
+},
+viewport: {
+northeast: {
+lat: 50.82994857989272,
+lng: 12.94050672989272
+},
+southwest: {
+lat: 50.82724892010727,
+lng: 12.93780707010728
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "407370047167b6a8eb5bbcc6219e15f5320cde25",
+name: "Pension Hoefti",
+opening_hours: {
+open_now: true
+},
+photos: [
+{
+height: 747,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/110935772413488304118">A Google User</a>"
+],
+photo_reference: "CmRaAAAASKJdVmx3b640iT63Wf8FzPMViMBURzHuAD7gW6wy3A2jzjdIUnh8WK3a9PV36l15wIesUSgoVOyctfn8Y_bNJLgKXoRTBxPiu6fkyD8GTMJGoV3iYBQdUaT2IL-1z_nREhBl9rCfaBxHb-sIpCgNUEEHGhTBEwx5S92P3jKGx-skRYysJ41_ug",
+width: 1328
+}
+],
+place_id: "ChIJFegz51tHp0cRMtBYjgqOFVQ",
+plus_code: {
+compound_code: "RWHQ+FM Chemnitz",
+global_code: "9F2JRWHQ+FM"
+},
+rating: 5,
+reference: "ChIJFegz51tHp0cRMtBYjgqOFVQ",
+scope: "GOOGLE",
+types: [
+"point_of_interest",
+"establishment"
+],
+user_ratings_total: 14,
+vicinity: "Bernhardstraße 37, Chemnitz"
+},
+{
+geometry: {
+location: {
+lat: 50.84455579999999,
+lng: 12.9243832
+},
+viewport: {
+northeast: {
+lat: 50.84585347989272,
+lng: 12.92570357989272
+},
+southwest: {
+lat: 50.84315382010728,
+lng: 12.92300392010728
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+id: "06ef610c825698e1418d53e7330e8b5acf007421",
+name: "Elisenhof",
+photos: [
+{
+height: 3024,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/101016312004767823011">Alexander Schreiber</a>"
+],
+photo_reference: "CmRaAAAAInJXaeQ0A5txye276baMm07QqB669_gPZ0QG7zxU3hCIgflD1zmdDvGITi95UKPsBS-pYzO55usqxMOxLsMexL5N71cZv5ZRgB76qeP4OotPvcXoAQ8zEUtYNdp6wP-8EhCjstSsjuD9JZlLXhDKMlCEGhTV4uWyR_v-1AhQ3_-N76_m2Kjy4Q",
+width: 4032
+}
+],
+place_id: "ChIJR9TV_fNGp0cR4fSr5PHK4Xo",
+plus_code: {
+compound_code: "RWVF+RQ Chemnitz",
+global_code: "9F2JRWVF+RQ"
+},
+rating: 3.7,
+reference: "ChIJR9TV_fNGp0cR4fSr5PHK4Xo",
+scope: "GOOGLE",
+types: [
+"lodging",
+"point_of_interest",
+"establishment"
+],
+user_ratings_total: 82,
+vicinity: "Müllerstraße 102, Chemnitz"
+}
+],
+status: "OK"
+}
